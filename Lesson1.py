@@ -38,7 +38,6 @@ interest = (principle * time * rate)/100
 print('Your Interest is ', interest, 'KES')
 print('Thank you')
 
-
 # Create a BMI calculator
 
 
