@@ -13,5 +13,8 @@ elif marks >=30 and marks < 48:
 elif marks >= 48 and marks < 70:
     print('You have an above average')
 
-elif marks >=70 and marks <=100:
+elif marks >=70 and marks <= 100:
     print('Excellent!')
+
+else:
+    print('Something went wrong..')
