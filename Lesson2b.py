@@ -1,5 +1,4 @@
 
-
 marks = float(input('What is your marks'))
 # Operations in variables
 # 1. Arithmetic,  + , - , / , *

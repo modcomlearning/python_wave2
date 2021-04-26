@@ -5,6 +5,7 @@
 # Lets calculate area of a triangle
 # 1/2bh
 
+
 base = float(input('Enter Base: '))
 height = float(input('Enter Height:'))
 age = int(input('What is your age: '))
