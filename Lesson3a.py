@@ -5,7 +5,6 @@
 
 # ================Conditional Statements===============
 marks = float(input('Enter Your Marks: '))
-
 if marks < 0:
     print('Invalid Marks')  # true
 
