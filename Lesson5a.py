@@ -8,7 +8,7 @@ print(fruits[4])
 # create a tuple
 towns = ('nairobi','nakuru','eldoret', 200, 45.5)
 print(towns)
-print(towns[3])
+print(towns[2])
 print(towns[1:3])
 
 

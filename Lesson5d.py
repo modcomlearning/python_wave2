@@ -24,6 +24,8 @@ print(person)
 print(phone['capacity'])
 print(person['weight'])
 
+
+
 # add a new index
 person['residence'] = 'Ngong'
 print(person)
