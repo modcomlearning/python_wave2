@@ -14,7 +14,7 @@ def simple_interest():
 
 # another
 def area():
-    radius = 0
+    radius = 4
     answer = 3.14 * radius * radius
     print('Area is ', answer)
 
